@@ -11,3 +11,4 @@ if len(mylist) != len(myset):
     print("duplicates found in the list")
 else:
     print("No duplicates found in the list")
+    
